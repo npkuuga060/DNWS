@@ -12,13 +12,13 @@
             "Postprocessing" : "false" ,
             "Singleton" : "false"
         },
-        {
+        /*{
             "Path" : "stat",
             "Class" : "DNWS.StatPlugin",
             "Preprocessing" : "true",
             "Postprocessing" : "false" ,
             "Singleton" : "false"
-        },
+        },*/
         {
             "Path" : "ox",
             "Class" : "DNWS.OXPlugin",
@@ -41,12 +41,12 @@
             "Preprocessing" : "false",
             "Postprocessing" :"false" 
         },
-        {
-            "Path" : "twitter",
-            "Class" : "DNWS.TwitterPlugin",
-            "Preprocessing" : "false",
-            "Postprocessing" :"false" 
-        },
+      {
+        "Path": "twitter",
+        "Class": "DNWS.TwitterPlugin",
+        "Preprocessing": "false",
+        "Postprocessing": "false"
+      },
         {
             "Path" : "twitterapi",
             "Class" : "DNWS.TwitterAPIPlugin",
