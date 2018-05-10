@@ -3,8 +3,8 @@
     "",
     "\\client",
     "\\client\\app",
-    "\\client\\app\\tweet"
+    "\\client\\app\\unfollowing"
   ],
-  "SelectedNode": "\\client\\app\\tweet\\tweet.js",
+  "SelectedNode": "\\TwitterPlugin.cs",
   "PreviewInSolutionExplorer": false
 }
